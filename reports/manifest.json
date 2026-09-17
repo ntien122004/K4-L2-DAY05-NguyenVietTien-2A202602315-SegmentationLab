@@ -1,0 +1,27 @@
+{
+  "learner_id": "2A202602315",
+  "tasks_present": [
+    "easy_semantic",
+    "medium_instance",
+    "hard_panoptic",
+    "cp1_holes",
+    "cp2_slice",
+    "cp5_occlusion",
+    "cp3_thin",
+    "cp4_curb",
+    "cp6_coverage"
+  ],
+  "tasks_missing": [],
+  "files": {
+    "REPORT.md": "1fa8c54eab54ecd903296dbd96dd4f0edde955fd5d1b38913670d21dfcf4df34",
+    "exports/easy_semantic.zip": "7893fbf4cb2a990d81ea4261c9f08cc215229f260f7dc41173bd48d47045f43a",
+    "exports/medium_instance.zip": "d1b00cbf9c5f94ad75217a467767b0d85ce25e53207ff0a5bc3e06d106c1d0f7",
+    "exports/hard_panoptic.zip": "996aafe3bb45d1e2ed6857024e1d43f30a082af06f9b511945274506d7508edb",
+    "exports/cp1_holes.zip": "7f0ccfcf24c1992c76cd60be70607f66a8e28cbaf8d0b0088a96e14440327c5a",
+    "exports/cp2_slice.zip": "7d04f37e77f3cf4985ccd2dabf99be13a1fca9a3eb7ed8eae73f3f714c9ffac9",
+    "exports/cp5_occlusion.zip": "3d57188e945fd0bcfae537932c205ad774cd2454ceab81c55416325d68517eb0",
+    "exports/cp3_thin.zip": "026d2cb3b18c64f71ff5cc1c67a83bb94622c3519d2bb4472ff28e843c2e2fed",
+    "exports/cp4_curb.zip": "3b425657aa1c6b0071e426151974e86002599d4f9c90302ae52d82e2185921b4",
+    "exports/cp6_coverage.zip": "e698c5a18cad66e2e98c07505806d3c5dcee1c18281cf3b54a52209e617401d6"
+  }
+}
